@@ -69,8 +69,5 @@ Set `MS_PER_GRAM` in code. Example: `600 ms / 5 g` → `120 ms/g` (adjust to you
 - Verify 5V power for servo; keep grounds common.
 - Add mechanical failsafes to avoid jamming.
 
-## Wiring guide
-See `docs/wiring.md` for pinout, power notes, and ASCII diagrams.
-
 ## License
 MIT (see LICENSE).
